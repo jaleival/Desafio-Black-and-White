@@ -1,0 +1,25 @@
+html,
+body,
+a {
+	background-color: black;
+	color: white;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+	color: grey;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+form {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #000;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
